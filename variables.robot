@@ -1,7 +1,7 @@
 *** Variables ***
 # Authentication data
-${app_id}=        SkoldCbk1Z02dw8FeA6BFw
-${secret_key}=    HC2X6Jtjm_d0FgkT0GuUfH5aOF_zZg
+${app_id}=        # Enter your Reddit application ID instead of this comment
+${secret_key}=    # Enter your Reddit application secret key instead of this comment
 ${username}=      # Enter your Reddit username instead of this comment
 ${password}=      # Enter your Reddit password instead of this comment
 
