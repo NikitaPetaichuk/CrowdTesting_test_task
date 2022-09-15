@@ -66,7 +66,6 @@ Deleting the sent comment
     ...                          Find Sent Comment In The Post Comments
     ...                          ${comment_id}  ${FALSE}
 
-
 Extract sent comment id
     [Arguments]  ${response_body}
     ${jquery_list}=                 Get From Dictionary   ${response_body}  jquery
