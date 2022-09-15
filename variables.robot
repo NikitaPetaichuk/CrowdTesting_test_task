@@ -2,8 +2,8 @@
 # Authentication data
 ${app_id}=        SkoldCbk1Z02dw8FeA6BFw
 ${secret_key}=    HC2X6Jtjm_d0FgkT0GuUfH5aOF_zZg
-${username}=      mrjosethk
-${password}=      TestAccount123
+${username}=      # Enter your Reddit username instead of this comment
+${password}=      # Enter your Reddit password instead of this comment
 
 # Dictionaries for requests
 &{headers}=       User-Agent=TestingApp/0.0.1
@@ -12,6 +12,6 @@ ${password}=      TestAccount123
 ...               password=${password}
 
 # Data used in tests
-${post_id}=       t3_xddm02
-${post_title}=    Test post
+${post_id}=       t3_xeo5ab
+${post_title}=    junior vs senior
 ${comment_body}=  This is a test comment sent with Reddit API.
